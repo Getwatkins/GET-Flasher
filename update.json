@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "installerUrl": "https://www.germanelitetuning.com/getflasher/GETFlasherSetup_1.1.0.exe",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.1.0/GET-Flasher-1.1.0.msi",
   "releaseNotes": "- Fixed measuring block display\n- Added live polling for MVB\n- Various stability improvements",
   "sha256": "8DAA0D25EB767D72B90881645DCDA0DF5748048D62B494475C7C2D745E6619E1"
 }
