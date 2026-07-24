@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.1.0/GET-Flasher-1.1.0.msi",
+  "version": "1.2.0",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.2.0/GET-Flasher-1.2.0.msi",
   "releaseNotes": "- Fixed measuring block display\n- Added live polling for MVB\n- Various stability improvements",
-  "sha256": "8DAA0D25EB767D72B90881645DCDA0DF5748048D62B494475C7C2D745E6619E1"
+  "sha256": "0A6FB5A5535C73AA640A68E31E6284E13614BDEAEA07B9FA044993E9C3D0028A"
 }
