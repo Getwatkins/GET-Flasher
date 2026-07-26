@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.3.1/GET-Flasher-1.3.1.msi",
-  "releaseNotes": "- Fixed measuring block display\n- Added live polling for MVB\n- Various stability improvements voltager before flashing",
-  "sha256": "AA18DB29F44A3C85B81B8E296FF801CA5E4FF70A8E576805509A3CCBB17496A0"
+  "version": "1.3.2",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.3.2/GET-Flasher-1.3.2.msi",
+  "releaseNotes": "- Fixed measuring block display\n- Added live polling for MVB\n- Various stability improvements voltager before flashing\n- Enabled flash and fast flash buttons when not connected",
+  "sha256": "365383B4665E3CA8763B853CE923A0953E4B47550AB8FBE363FF04C03EA99EE2"
 }
