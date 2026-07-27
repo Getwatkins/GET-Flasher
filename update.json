@@ -1,6 +1,6 @@
 {
   "version": "1.4.1",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.4.1/GET-Flasher-1.4.1.msi",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.4.2/GET-Flasher-1.4.2.msi",
   "releaseNotes": "- Updated GET log viewer dyno config to give a more acurate power graph and dyno numbers",
   "sha256": "C9AC105AC9CCB549739CC9EDFC69FEA7F055B2DCBCBDF6EC8CF6951C3BD946B5"
 }
