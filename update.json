@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.0/GET-Flasher-1.5.0.msi",
-  "releaseNotes": "- added option to add a comparison log and added option to export a graph fats and power",
-  "sha256": "CD0FBA91E962883FFD5D9F019AFEC2AEBA31D93409B81E61A18630A5C6FD1372"
+  "version": "1.5.4",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/V1.5.4/GET-Flasher-1.5.4.msi",
+  "releaseNotes": "- added option to add a comparison log, export a graph fats and power, updated visual for logviewer",
+  "sha256": "48268A722F5CFB22BA53CD6294CD62AA9D56C1C1780D90021A95AE46CEC4C9FB"
 }
