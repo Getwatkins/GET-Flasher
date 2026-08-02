@@ -1,6 +1,6 @@
 {
   "version": "1.5.17",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.15/GET-Flasher-1.5.15.msi",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.17/GET-Flasher-1.5.17.msi",
   "releaseNotes": "- added live mvb function and made a few bug fix's",
   "sha256": "BBD138A97176B89F15D8D517A3A1D882AC8E84869DD32F06385EBE78B1624CB5"
 }
