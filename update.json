@@ -1,6 +1,6 @@
 {
   "version": "1.5.22",
   "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.22/GET-Flasher-1.5.22.msi",
-  "releaseNotes": "- added live mvb function and made a few bug fix's",
+  "releaseNotes": "- adjusted the size of mvb values to fit all screen sizes and changed the wording of a few buttons",
   "sha256": "9CEFCB937142900E34FBE2939C49B7A01672FF35133B5BD37FE94FB0123F9F35"
 }
