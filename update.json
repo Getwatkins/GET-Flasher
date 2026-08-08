@@ -1,6 +1,6 @@
 {
-  "version": "1.5.23",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.23/GET-Flasher-1.5.23.msi",
-  "releaseNotes": "- adjusted size of mvb values to fit all screen sizes, changed the wording of a few buttons, added auto check for update",
-  "sha256": "3EDE668B3B00386C1C411892EE9683FFFF37E50397484A6A899FF732350C1E03"
+  "version": "1.5.24",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.24/GET-Flasher-1.5.24.msi",
+  "releaseNotes": "- minor change to progress bar and default buttons",
+  "sha256": "CC09A2D91EE066D50B880604A0DBC0D23FA0C541954DCCCBF080F5A5B61B424D"
 }
