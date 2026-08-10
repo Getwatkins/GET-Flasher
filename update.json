@@ -1,6 +1,6 @@
 {
-  "version": "1.5.24",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.24/GET-Flasher-1.5.24.msi",
-  "releaseNotes": "- minor change to progress bar and default buttons",
+  "version": "1.5.26",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.26/GET-Flasher-1.5.26.msi",
+  "releaseNotes": "- changed flash info to red and updated hp tq view",
   "sha256": "5CB5BAFE7FF0335F77E40DC6DE88E37BBEFE98542DB4C42130498FE0717D3C3A"
 }
