@@ -1,6 +1,6 @@
 {
   "version": "1.5.27",
-  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/1.5.26/GET-Flasher-1.5.26.msi",
+  "installerUrl": "https://github.com/Getwatkins/GET-Flasher/releases/download/v1.5.27/GET-Flasher-1.5.27.msi",
   "releaseNotes": "- changed flash info to red and updated hp tq view",
   "sha256": "78EDCA69972F61DA2D730AB91D7DA2380BEAE76B4B1079E44C1176B07F6C5D3A"
 }
